@@ -1,0 +1,9 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	Base                    3016
+//	Done                    3022
+//	Main                    3000
+//	MyFunc                  3009
+//	Recurse                 3018
+//	STACKBASE               302D
+//	n                       302E
